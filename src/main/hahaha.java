@@ -13,4 +13,6 @@ public class hahaha {
     }
 
     String strin;
+
+    String in;
 }
