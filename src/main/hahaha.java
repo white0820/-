@@ -4,4 +4,6 @@ public class hahaha {
     private int a;
 
     private boolean b;
+
+    double c;
 }
