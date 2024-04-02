@@ -11,4 +11,6 @@ public class hahaha {
     void method1() {
         System.out.println(1);
     }
+
+    String strin;
 }
