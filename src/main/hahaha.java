@@ -6,4 +6,11 @@ public class hahaha {
     private boolean b;
 
     double c;
+
+
+    void method1() {
+        System.out.println(1);
+    }
+
+    String strin;
 }
